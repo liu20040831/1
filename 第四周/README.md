@@ -7,18 +7,7 @@ Shinhan University | International College | Software Major
 
 성명: 刘童歌
 
-주요 학습 내용: PyBullet 시뮬레이션, 정/역운동학, ROS 통신, 센서 데이터 처리, AI 기반 로봇 제어.
-
-🇨🇳 简介 (Introduction)
-本仓库用于存放和管理信韩大学国际大学软件专业“AI机器人”课程的相关作业。课程内容涵盖了从基础的机器人运动学（Kinematics）到使用 ROS (机器人操作系统) 进行的高阶控制，以及结合人工智能（AI）实现智能化机器人系统的构建。
-
-姓名： XXX
-
-核心模块： PyBullet 仿真、正向/逆向运动学、ROS 通讯机制、传感器数据处理、基于 AI 的机器人控制。
-
-🇺🇸 English (Introduction)
-This repository is dedicated to the assignments and projects of the AI Robotics course at Shinhan University (International College, Software Major). The curriculum spans from basic Robot Kinematics to advanced control using ROS (Robot Operating System), aiming to build intelligent robotic systems integrated with Artificial Intelligence.
-
+行车记录仪
 - Name: XXX
 - Key Topics: PyBullet Simulation, Forward/Inverse Kinematics, ROS Middleware, Sensor Data Processing, AI-driven Robot Control.
 
